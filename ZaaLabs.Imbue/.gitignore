@@ -1,0 +1,9 @@
+﻿*.suo
+*.user
+Bin/
+bin/
+obj/
+Obj/
+ClientBin/
+_ReSharper*/
+App_Data/
